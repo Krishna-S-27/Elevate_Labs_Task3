@@ -1,0 +1,18 @@
+BeautifulSoup is a Python library used for web scraping. It helps parse HTML and XML documents 
+making it easy to navigate and extract specific parts of a webpage.
+
+Steps involved in web scraping:
+
+1.Send an HTTP Request: Use the requests library to send a request to the webpage URL and get the HTML
+    content in response.
+2.Parse the HTML Content: Use a parser like html.parser or html5lib to convert the raw HTML into a 
+    structured format (parse tree).
+3.Extract Data: Use BeautifulSoup to navigate the parse tree and extract the required data using tags,
+    classes, or IDs.
+
+dependencies:
+pip install requests
+pip install beautifulsoup4
+
+
+should import all the dependencies and datetime
