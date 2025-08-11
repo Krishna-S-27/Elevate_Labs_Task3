@@ -6,12 +6,12 @@ This project is a Python-based web scraper that fetches the latest news headline
 ---
 ##  Features
 
-- ✅ Scrapes `<h2>` headlines from two popular Indian news websites.
-- ✅ Retrieves and logs the page title for each website.
-- ✅ Limits the number of scraped headlines (default: 20 per source).
-- ✅ Handles errors gracefully.
-- ✅ Saves all scraped data to a `.txt` file (`headlines.txt`).
-- ✅ Prints results in the console for immediate review.
+-  Scrapes `<h2>` headlines from two popular Indian news websites.
+-  Retrieves and logs the page title for each website.
+-  Limits the number of scraped headlines (default: 20 per source).
+-  Handles errors gracefully.
+-  Saves all scraped data to a `.txt` file (`headlines.txt`).
+-  Prints results in the console for immediate review.
 
 ---
 
